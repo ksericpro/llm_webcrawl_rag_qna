@@ -58,10 +58,10 @@ npm start
 
 # Embed & Ask
 
-## 1
+## 1 LLM Infos
 - [article to index and embed] (https://www.baseten.co/blog/the-best-open-source-large-language-model/)
 ![screenshot](LLM.png)
 
-## 2
+## 2 Guitars Info
 - [guitar] (https://acousticvibesmusic.com/blogs/news/which-brand-is-best-for-acoustic-guitar)
 ![screenshot](LLM2.png)
